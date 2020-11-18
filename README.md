@@ -28,5 +28,5 @@ CONFIGURATION
 
 MAINTAINERS
 -----------
-* minh
-* vu
+* Minh
+* Vu
