@@ -1,12 +1,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
-  <a href="https://github.com/minhd-vu/nfs-v2-docker">
-    <img src="images/logo.png" alt="Logo" width="80" height="80">
-  </a>
-
   <h3 align="center">nfs-v2-docker</h3>
-
   <p align="center">
     NFS Version 2 Docker Container
     <br />
